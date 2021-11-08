@@ -20,7 +20,7 @@ To deploy make sure you have docker installed and just run the command:
 ```console
 $ docker-compose up -d 
 ```
-This should start the server in detached mode, locally at port 80: ***localhost:80*** allowing you to make changes to the code and see them in real time.
+This should start the server in detached mode, locally at port 80 (*localhost:80*) allowing you to make changes to the code and see them in real time.
 
 ### TBD
 - Add custom domain
