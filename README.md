@@ -1,4 +1,4 @@
-## Digital Resume Static Website
+# Digital Resume Static Website
 
 This project is used for my personal website, it's a simple static website hosted in [GitHub Pages](https://pages.github.com/).
 
@@ -14,7 +14,7 @@ This project is used for my personal website, it's a simple static website hoste
 ### Deploy
 This application is deployed in GitHub pages [here](https://calvinhus.github.io/resume/).
 
-However, in order to develop it locally without having to push the changes to the repo every time I created a docker-compose file to deploy locally in a simple web server (based on the **nginx:alpine** image).
+However, in order to develop it without having to push the changes to the repo every time, I created a docker-compose file to deploy locally in a simple web server (based on the **nginx:alpine** image).
 
 To deploy make sure you have docker installed and just run the command:
 ```console
