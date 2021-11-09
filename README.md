@@ -24,6 +24,5 @@ This should start the server in detached mode, locally at port 80 (*localhost:80
 
 ### TBD
 - Add custom domain
-- Fix swiper buttons (not working)
 
 > **Note:** This project is based on a free template by [Did Coding](https://github.com/bobby-didcoding/didcoding_resume_template)
